@@ -1,0 +1,14 @@
+{
+"name": "Sabacini List",
+"logoURI": "https://github.com/Sabacini/sabacinicoin-assets/blob/main/logo.png",
+"tokens": [
+{
+"chainId": 56,
+"address": "0x89d755df54CD3305A0C6f2CbE48393dFE72B1C7a",
+"symbol": "SBCICN",
+"name": "SabaciniCoin",
+"decimals": 18,
+"logoURI": "https://github.com/Sabacini/sabacinicoin-assets/blob/main/logo.png"
+}
+]
+}
